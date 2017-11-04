@@ -1,0 +1,181 @@
+module.exports = {
+	"regionData": [
+		{
+			"id": "nat",
+			"subId": "US National",
+			"states": [
+				"AK",
+				"AL",
+				"AR",
+				"AZ",
+				"CA",
+				"CO",
+				"CT",
+				"DC",
+				"DE",
+				"FL",
+				"GA",
+				"HI",
+				"IA",
+				"ID",
+				"IL",
+				"IN",
+				"KS",
+				"KY",
+				"LA",
+				"MA",
+				"MD",
+				"ME",
+				"MI",
+				"MN",
+				"MO",
+				"MS",
+				"MT",
+				"NC",
+				"ND",
+				"NE",
+				"NH",
+				"NJ",
+				"NM",
+				"NV",
+				"NY",
+				"OH",
+				"OK",
+				"OR",
+				"PA",
+				"RI",
+				"SC",
+				"SD",
+				"TN",
+				"TX",
+				"UT",
+				"VA",
+				"VT",
+				"WA",
+				"WI",
+				"WV",
+				"WY"
+			]
+		},
+		{
+			"id": "hhs1",
+			"subId": "HHS Region 1",
+			"states": [
+				"CT",
+				"MA",
+				"ME",
+				"NH",
+				"RI",
+				"VT"
+			]
+		},
+		{
+			"id": "hhs2",
+			"subId": "HHS Region 2",
+			"states": [
+				"NJ",
+				"NY"
+			]
+		},
+		{
+			"id": "hhs3",
+			"subId": "HHS Region 3",
+			"states": [
+				"DE",
+				"MD",
+				"PA",
+				"VA",
+				"WV"
+			]
+		},
+		{
+			"id": "hhs4",
+			"subId": "HHS Region 4",
+			"states": [
+				"AL",
+				"FL",
+				"GA",
+				"KY",
+				"MS",
+				"NC",
+				"SC",
+				"TN"
+			]
+		},
+		{
+			"id": "hhs5",
+			"subId": "HHS Region 5",
+			"states": [
+				"IL",
+				"IN",
+				"MI",
+				"MN",
+				"OH",
+				"WI"
+			]
+		},
+		{
+			"id": "hhs6",
+			"subId": "HHS Region 6",
+			"states": [
+				"AR",
+				"LA",
+				"NM",
+				"OK",
+				"TX"
+			]
+		},
+		{
+			"id": "hhs7",
+			"subId": "HHS Region 7",
+			"states": [
+				"IA",
+				"KS",
+				"MO",
+				"NE"
+			]
+		},
+		{
+			"id": "hhs8",
+			"subId": "HHS Region 8",
+			"states": [
+				"CO",
+				"MT",
+				"ND",
+				"SD",
+				"UT",
+				"WY"
+			]
+		},
+		{
+			"id": "hhs9",
+			"subId": "HHS Region 9",
+			"states": [
+				"AZ",
+				"CA",
+				"HI",
+				"NV"
+			]
+		},
+		{
+			"id": "hhs10",
+			"subId": "HHS Region 10",
+			"states": [
+				"AK",
+				"ID",
+				"OR",
+				"WA"
+			]
+		}
+	],
+	"seasonIds": [
+		"2010-2011",
+		"2011-2012",
+		"2012-2013",
+		"2013-2014",
+		"2014-2015",
+		"2015-2016",
+		"2016-2017"
+	],
+	"updateTime": "November 4th 2017, 12:13:14"
+};
